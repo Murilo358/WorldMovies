@@ -1,0 +1,41 @@
+.navbar__container {
+  font-family: var(--plus-jakarta-sans);
+  background-color: var(--secondary-color);
+  color: white;
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.Navbar__logo img {
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+}
+.nav-item a:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.Navbar__menu {
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 64px;
+  list-style: none;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #ffffff8c;
+}
+
+.Navbar__menu li img {
+  width: 24px;
+  object-fit: contain;
+}
+
+.Navbar__menu-mobile {
+  display: none;
+  gap: 20px;
+  position: relative;
+}

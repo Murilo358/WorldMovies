@@ -1,0 +1,25 @@
+.watchListContainer {
+  padding-top: 10vh;
+}
+.watchListContainer h1 {
+  text-align: center;
+  margin: 0 auto;
+}
+.watched {
+  background-color: #1eff0038;
+}
+
+.remove {
+  background-color: #f32a2a49;
+}
+
+.addedIn {
+  text-align: center;
+}
+.emptyWatchlist {
+  color: #fff;
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10vh;
+}

@@ -1,0 +1,46 @@
+.search-movies-form {
+  display: flex;
+  padding-top: 20vh;
+
+  align-items: center;
+  justify-content: center;
+  min-height: 10vh;
+}
+
+.search-movies-container {
+  padding: 0px;
+  width: 350px;
+  color: white;
+  border-radius: 50px;
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--secondary-color);
+}
+
+.search-movies-container input {
+  background-color: transparent;
+  border: none;
+  color: white;
+  width: 100%;
+  padding: 15px;
+  font-size: 15px;
+  outline: none;
+  font-family: var(--ubuntu);
+  font-weight: 300;
+}
+
+.search-movies-container input::placeholder {
+  color: white;
+}
+.search-movies-container button {
+  padding: 15px;
+  border: none;
+  font-family: var(--ubuntu);
+  border-radius: 30px;
+
+  background-color: #ff2638;
+  color: white;
+}
+.search-movies-container button:hover {
+  background-color: #9c121e;
+}

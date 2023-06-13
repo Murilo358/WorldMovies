@@ -1,0 +1,46 @@
+.second-content {
+  padding-top: 20vh;
+  background-image: url(../assets/SecondContent.svg);
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.first-content {
+  background-image: url(../assets/FirstContent.svg);
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.movie-content {
+  padding-top: 10vh;
+  background-image: url(../assets/MovieContent.svg);
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.wave {
+  background-image: url(../assets/wave.svg);
+  background-position: top;
+  background-size: cover;
+  height: 300px;
+  background-repeat: no-repeat;
+}
+
+.watchListContainer {
+  background-image: url(../assets/MovieContent.svg);
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+}
+.Searchresults {
+  min-height: 100vh;
+  background-image: url(../assets/SearchBG.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10vh 0 10vh 0;
+}

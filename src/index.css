@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oxanium&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  scroll-behavior: smooth;
+  padding: 0;
+}
+
+:root {
+  --playfair-display: "Playfair Display", serif;
+  --plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;
+  --ubuntu: "Oxanium", cursive;
+  --swiper-navigation-color: white;
+  --swiper-scrollbar-bg-color: var(--primary-color);
+  --swiper-scrollbar-drag-bg-color: var(--secondary-color);
+  --primary-color: #1c1c28;
+  --secondary-color: #1b1b30;
+  --third-color: #ecae04;
+  --purple: #8900fa;
+  /* --purple: #fa0000; */
+
+  --black-200: #020202;
+  --black-300: #333333;
+  --black-400: #1f1e31;
+  --black-500: #555555;
+  --gray-100: #888888;
+
+  --beige: #c9c1b1;
+  --color-white: #fff;
+  --color-creamson: #d1d0cf;
+}
+
+.title {
+  background-image: linear-gradient(145deg, var(--purple), var(--third-color));
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  padding-top: 5vh;
+  font-size: 35px;
+  font-family: var(--plus-jakarta-sans);
+  border-bottom: 0.1rem solid #fafafa;
+  border-image: linear-gradient(90deg, #fafafa, transparent) 10% 1;
+  margin-bottom: 20px;
+  width: fit-content;
+  font-weight: 800;
+}
+
+.navbar {
+  --bs-navbar-padding-y: 0;
+}
+
+::-webkit-scrollbar {
+  background-color: var(--primary-color);
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #363663;
+  border: 2px solid #1d1d1d;
+  border-radius: 10px;
+}

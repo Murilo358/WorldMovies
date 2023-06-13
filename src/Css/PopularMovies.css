@@ -1,0 +1,40 @@
+.Popular-movies {
+  color: #fff;
+}
+.Popular-movies-container {
+  max-height: 80vh;
+}
+.Popular-movies h1 {
+  text-align: center;
+  width: 100%;
+}
+
+.popular-swiper {
+  width: 80%;
+  border: 5px solid var(--primary-color);
+
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.popular-swiper img {
+  width: 100%;
+}
+
+@media (max-width: 770px) {
+  .popular-swiper {
+    width: 100%;
+  }
+
+  iframe {
+    height: 350px;
+  }
+}
+
+@media (max-width: 995px) {
+  .Popular-movies-container {
+  }
+  .popular-swiper img {
+    height: 100%;
+  }
+}
