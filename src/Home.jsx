@@ -11,7 +11,7 @@ import "aos/dist/aos.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./Css/Home.css";
 import "./Css/AboutMoviesCard.css";
-import "./Css/cards.css";
+import "./Css/Cards.css";
 
 const moviesURL = import.meta.env.VITE_API;
 const apiKey = import.meta.env.VITE_API_KEY;
