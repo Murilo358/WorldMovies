@@ -7,7 +7,7 @@ import { useState, useEffect } from "react";
 import { useParams, ScrollRestoration } from "react-router-dom";
 
 import { addToWatchlist } from "../Js/Functions";
-import Star from "../assets/Star.svg";
+import Star from "../assets/star.svg";
 import dayjs from "dayjs";
 
 const imagesURL = import.meta.env.VITE_IMG;
