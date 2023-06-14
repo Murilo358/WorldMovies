@@ -21,7 +21,7 @@
 <p id="objetivo">O objetivo da World movies é apresentar aos usuários os filmes mais populares do momento, permitindo que eles organizem sua lista de filmes para assistir e realizem pesquisas.</p>
 
 
-<h3> id="tecnologias">Tecnologias utilizadas</h3>
+<h3 id="tecnologias">Tecnologias utilizadas</h3>
 
   ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=transparent)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
