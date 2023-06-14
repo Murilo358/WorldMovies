@@ -101,8 +101,8 @@
     scale: 1.2;
   }
 
-  .swiper-button-prev,
-  .swiper-button-next {
+  .cards-swiper .swiper-button-prev,
+  .cards-swiper .swiper-button-next {
     display: none;
   }
 }
