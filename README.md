@@ -3,7 +3,7 @@
 
 <hr>
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrine/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=RED&style=for-the-badge" #vitrine/>
 </p>
 
 
@@ -17,7 +17,7 @@
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Link do deploy realizado](#Link do deploy realizado)
+- [Link do deploy realizado](#Link-do-deploy-realizado)
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
@@ -60,7 +60,7 @@ World Movies é um site construído utilizando a API do TMDB, onde você pode cr
 
 ###
 
-## Link do deploy realizado
+## #Link-do-deploy-realizado
 
 <p align="center">
   <a href="https://worldmovies-gamma.vercel.app">Clique aqui para ser redirecionado</a>
