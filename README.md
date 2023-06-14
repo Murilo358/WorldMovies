@@ -1,4 +1,4 @@
-![Logo WorldMovies]("./src/assets/Logo.png" width=115 height=115 )
+<img src="./src/assets/Logo.png" alt="Logo WorldMovies" width="115" height="115">
 
 
 <hr>
