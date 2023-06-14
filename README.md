@@ -19,7 +19,7 @@
 
 - [Link do deploy realizado](#Link-do-deploy-realizado)
 
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+- [Preview](#preview)
 
 - [Desenvolvedor](#desenvolvedor)
 
@@ -40,7 +40,7 @@ World Movies é um site construído utilizando a API do TMDB, onde você pode cr
 
 :heavy_check_mark: `Funcionalidade 4:` Filtrar filmes por categorias
 
-## Aplicação
+## preview
 
 <div align="center">
 
