@@ -11,17 +11,17 @@
 
 ### Tópicos 
 
-- [Descrição do projeto](#descrição-do-projeto)
+- [Descrição do projeto](#Descrição-do-projeto)
 
-- [Funcionalidades](#funcionalidades)
+- [Funcionalidades](#Funcionalidades)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Ferramentas utilizadas](#Ferramentas-utilizadas)
 
 - [Link do deploy realizado](#Link-do-deploy-realizado)
 
-- [Preview](#preview)
+- [Preview](#Preview)
 
-- [Desenvolvedor](#desenvolvedor)
+- [Desenvolvedor](#Desenvolvedor)
 
 ## Descrição do projeto 
 
@@ -30,7 +30,7 @@
 World Movies é um site construído utilizando a API do TMDB, onde você pode criar sua lista de filmes para assistir, buscar por filmes e conferir as últimas estreias. Com um design moderno e uma interface fácil de usar, o World Movies oferece uma experiência de navegação sem complicações para os amantes de cinema e entusiastas de filmes. Seja você fã de clássicos atemporais ou esteja ansioso para explorar as mais recentes novidades, este site é perfeito para você. Aprimore sua jornada de assistir filmes com o World Movies e descubra um mundo de maravilhas cinematográficas ao seu alcance.
 </p>
 
-## funcionalidades
+## Funcionalidades
 
 :heavy_check_mark: `Funcionalidade 1:` Buscar filmes 
 
@@ -40,7 +40,7 @@ World Movies é um site construído utilizando a API do TMDB, onde você pode cr
 
 :heavy_check_mark: `Funcionalidade 4:` Filtrar filmes por categorias
 
-## preview
+## Preview
 
 <div align="center">
 
@@ -50,7 +50,7 @@ World Movies é um site construído utilizando a API do TMDB, onde você pode cr
 
 ###
 
-## ferramentas-utilizadas
+## Ferramentas-utilizadas
 
  ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=transparent)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
