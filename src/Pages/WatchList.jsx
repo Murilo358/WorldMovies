@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Star from "../assets/Star.svg";
+import Star from "../assets/star.svg";
 import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 import MoviesCard from "../Components/MoviesCards";
