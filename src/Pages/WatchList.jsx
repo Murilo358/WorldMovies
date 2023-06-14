@@ -5,6 +5,7 @@ import Footer from "../Components/Footer";
 import MoviesCard from "../Components/MoviesCards";
 import "../Css/watchlist.css";
 import "../Css/Cards.css";
+import { ScrollRestoration } from "react-router-dom";
 
 const imagesURL = import.meta.env.VITE_IMG;
 const moviesURL = import.meta.env.VITE_API;
@@ -129,6 +130,7 @@ function WatchList() {
           )}
           <MoviesCard movie={moviesRecomendation} />
         </div>
+        <ScrollRestoration />
       </div>
       <Footer />
     </>

@@ -1,7 +1,7 @@
 import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 import { useEffect, useState } from "react";
-import { useSearchParams, Link } from "react-router-dom";
+import { useSearchParams, Link, ScrollRestoration } from "react-router-dom";
 import { addToWatchlist } from "../Js/Functions";
 import Star from "../assets/star.svg";
 import ImageNotFound from "../assets/ImageNotFound.png";
@@ -78,6 +78,7 @@ function Search() {
               );
             })}
         </div>
+        <ScrollRestoration />
       </div>
       <Footer />
     </>
