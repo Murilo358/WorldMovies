@@ -4,7 +4,7 @@ import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 import MoviesCard from "../Components/MoviesCards";
 import "../Css/watchlist.css";
-import "../Css/cards.css";
+import "../Css/Cards.css";
 
 const imagesURL = import.meta.env.VITE_IMG;
 const moviesURL = import.meta.env.VITE_API;
