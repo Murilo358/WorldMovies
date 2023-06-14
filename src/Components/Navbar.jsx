@@ -2,6 +2,7 @@ import { useState } from "react";
 import Logo from "../assets/Logo.png";
 import { NavHashLink } from "react-router-hash-link";
 import { useLocation } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 import {
   Collapse,
@@ -48,7 +49,9 @@ function Header() {
         <Collapse isOpen={!collapsed} navbar>
           <Nav navbar>
             <NavItem>
-              <NavLink href="/Watchlist">Sua WatchList</NavLink>
+              <Link className="navLink" to={"/Watchlist"}>
+                <NavLink>Sua WatchList</NavLink>
+              </Link>
             </NavItem>
             <NavItem>
               <NavLink>

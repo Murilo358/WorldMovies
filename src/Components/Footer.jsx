@@ -1,4 +1,4 @@
-import Logo from "../assets/logo.png";
+import Logo from "../assets/Logo.png";
 import "../Css/Footer.css";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 
