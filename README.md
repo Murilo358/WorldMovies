@@ -67,6 +67,6 @@ World Movies é um site construído utilizando a API do TMDB, onde você pode cr
 </p>
 
 
-## Desenvolvedores
+## Desenvolvedor
 
 | [<img src="https://avatars.githubusercontent.com/u/111542827?v=4" width=115><br><sub>Murilo Barbosa</sub>](https://github.com/Murilo358) 
