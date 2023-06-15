@@ -17,11 +17,14 @@ function Footer() {
           <h5>Desenvolvido por Murilo Barbosa</h5>
         </div>
         <div className="footer__social">
-          <a href="https://www.linkedin.com/in/murilo-barbosa-da-cunha-6297ba1b6/">
+          <a
+            target="_blank"
+            href="https://www.linkedin.com/in/murilo-barbosa-da-cunha-6297ba1b6/"
+          >
             <BsLinkedin className="footer-icon" />
           </a>
 
-          <a href="https://github.com/Murilo358">
+          <a target="_blank" href="https://github.com/Murilo358">
             <BsGithub className="footer-icon" />
           </a>
         </div>
